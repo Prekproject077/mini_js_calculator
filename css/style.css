@@ -1,0 +1,21 @@
+h1{
+    color:blueviolet
+}
+
+label{
+    color: rgb(254, 249, 249);
+    background-color: rgb(86, 23, 23);
+    padding: 10px;
+}
+
+input[type="button"],input[type="reset"]
+{
+    color: rgb(250, 244, 244);
+    background-color: rgb(71, 18, 18);
+    font-size: 22px;
+
+}
+marquee{
+    color: rgb(187, 10, 69);
+    font-size: 16px;
+}
